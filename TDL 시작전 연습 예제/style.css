@@ -1,0 +1,16 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: cornflowerblue;
+    transition: color 0.5s ease-in-out;
+}
+
+.active { /* 여기에 사용한 이름(active)은 raw value -> 사용자 지정 변수, 물론 .은 class를 뜻함. */
+    color: tomato;
+}
+
+.헤으응 {
+    font-family: cursive;
+}
